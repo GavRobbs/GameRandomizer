@@ -4,4 +4,4 @@ I was reading the Game Design Workshop by Tracy Fullerton. In this book, she dis
 
 This emulator can work with any rom file format by specifying the relevant command line arguments - type 'gamerandomizer.py --help' or 'gamerandomizer.py -h' in your console for more details.
 
-Copyright (c) [2022] [Gavin Robinson]
+Copyright (c) 2022 Gavin Robinson
